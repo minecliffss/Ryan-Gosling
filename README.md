@@ -66,7 +66,7 @@ Use `!` prefix for these commands (same functionality as slash commands):
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/minecliffss/Ryan-Gosling.git
    cd music-bot-main
    ```
 
